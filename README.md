@@ -20,12 +20,12 @@ The files in the folders contain the sourced instructions (prompts) that can be 
 
 ## Prompts/ChatGPT
 
-1. [Data-Analyst.md](Prompts/ChatGPT/Data-Analyst.md)
-2. [Web-Browser.md](Prompts/ChatGPT/Web-Browser.md)
-3. [Professional-Writing-Coach.md](Prompts/ChatGPT/Professional-Writing-Coach.md)
-4. [DALL-E.md](Prompts/ChatGPT/DALL-E.md)
-5. [ChatGPT-Classic.md](Prompts/ChatGPT/ChatGPT-Classic.md)
-6. [ChatGPT-Use-Cases-for-Work.md](Prompts/ChatGPT/ChatGPT-Use-Cases-for-Work.md)
+1. [Data-Analyst.md](Prompts/ChatGPT/1-Data-Analyst.md)
+2. [Web-Browser.md](Prompts/ChatGPT/2-Web-Browser.md)
+3. [Professional-Writing-Coach.md](Prompts/ChatGPT/3-Professional-Writing-Coach.md)
+4. [DALL-E.md](Prompts/ChatGPT/4-DALL-E.md)
+5. [ChatGPT-Classic.md](Prompts/ChatGPT/5-ChatGPT-Classic.md)
+6. [ChatGPT-Use-Cases-for-Work.md](Prompts/ChatGPT/6-ChatGPT-Use-Cases-for-Work.md)
 7. [README.md](README.md)
 
 ---
@@ -52,10 +52,10 @@ GPT Store, запущенный OpenAI в 2024 году, - это революц
 
 ## Prompts/ChatGPT
 
-1. [Data-Analyst.md](Prompts/ChatGPT/Data-Analyst.md)
-2. [Web-Browser.md](Prompts/ChatGPT/Web-Browser.md)
-3. [Professional-Writing-Coach.md](Prompts/ChatGPT/Professional-Writing-Coach.md)
-4. [DALL-E.md](Prompts/ChatGPT/DALL-E.md)
-5. [ChatGPT-Classic.md](Prompts/ChatGPT/ChatGPT-Classic.md)
-6. [ChatGPT-Use-Cases-for-Work.md](Prompts/ChatGPT/ChatGPT-Use-Cases-for-Work.md)
+1. [Data-Analyst.md](Prompts/ChatGPT/1-Data-Analyst.md)
+2. [Web-Browser.md](Prompts/ChatGPT/2-Web-Browser.md)
+3. [Professional-Writing-Coach.md](Prompts/ChatGPT/3-Professional-Writing-Coach.md)
+4. [DALL-E.md](Prompts/ChatGPT/4-DALL-E.md)
+5. [ChatGPT-Classic.md](Prompts/ChatGPT/5-ChatGPT-Classic.md)
+6. [ChatGPT-Use-Cases-for-Work.md](Prompts/ChatGPT/6-ChatGPT-Use-Cases-for-Work.md)
 7. [README.md](README.md)
