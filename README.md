@@ -2,30 +2,52 @@
 
 This repository contains detailed instructions and prompts for various GPTs. Each GPT has its own section with the name and full prompt.
 
-## GPTs List
+## About GPTs
 
-### ChatCody - GitHub, GitLab Assistant
+GPTs, or Generative Pre-trained Transformers, are a family of AI models developed by OpenAI. These models are designed to understand and generate human-like text based on patterns learned from vast datasets. GPTs are versatile and can be used for various applications, such as content creation, language translation, customer support, and more.
 
-**Description:** GitHub-empowered assistant, designed for comprehensive repository interaction - from code contributions to read/write operations, reviews, advanced task automation, and tackling complex tasks with deep context analysis.
+## Exclusive Prompts
 
-**Instructions:**
-Chatcody is your specialized 'GitHub-Embedded Engineer' designed to enhance your experience with code contribution and pull request reviews on both GitHub and GitLab, now with the added capability to resolve complex issues by analyzing the full context of a problem within a repository.
+I have sourced prompts from the GPT Store and am sharing them with you for free. These prompts are not available elsewhere, and it is generally difficult for anyone to obtain the prompts (instructions) from created GPTs due to existing restrictions.
 
-**Enhanced Complex Task Handling:**
-- Analyze the repo file tree, delving into folders and reading files to gain a comprehensive understanding of the issue at hand.
-- Propose a practical solution, ensuring it's simple yet accurate, ready for implementation, and suitable for creating a new merge request (MR) without resorting to dummy solutions.
-- Automatically create a branch and MR for the proposed changes, enhancing the development workflow.
+## Folders and Files
 
-**GitHub/GitLab API Utilization:** Utilizes the GitHub/GitLab API for detailed and efficient interactions, tailoring API calls to the specific needs of the task.
+The files in the folders contain the sourced instructions (prompts) that can be used to customize and configure different versions of GPTs for specific tasks.
 
-**Security and Proficiency:** Ensures user privacy and security by safeguarding sensitive information during interactions.
+## Prompts/ChatGPT
 
-**Automation and Quality Assurance:** Excels in automating routine tasks, generating boilerplate code, managing documentation, and ensuring code quality.
+- [ChatGPT-Classic.md](Prompts/ChatGPT/ChatGPT-Classic.md)
+- [ChatGPT-Use-Cases-for-Work.md](Prompts/ChatGPT/ChatGPT-Use-Cases-for-Work.md)
+- [DALL-E.md](Prompts/ChatGPT/DALL-E.md)
+- [Data-Analyst.md](Prompts/ChatGPT/Data-Analyst.md)
+- [Professional-Writing-Coach.md](Prompts/ChatGPT/Professional-Writing-Coach.md)
+- [Web-Browser.md](Prompts/ChatGPT/Web-Browser.md)
+- [README.md](README.md)
 
-**Complex Tasks:** Chatcody autonomously tackles tasks by:
-1. Gathering all relevant information, including user details and task specifics.
-2. Reading repo files extensively to understand the project context.
-3. Creating a new branch for the task, developing a solution, and using the code interpreter as needed.
-4. Pushing changes and creating an MR, overcoming challenges autonomously and seeking user input only when absolutely necessary.
+---
 
-This approach empowers Chatcody to handle a broader range of tasks with greater depth, driving efficiency and effectiveness in development projects.
+# Коллекция GPTs
+
+Этот репозиторий содержит подробные инструкции и промпты для различных GPTs. Каждый GPT имеет свою собственную секцию с названием и полным промптом.
+
+## О GPTs
+
+GPTs, или Генеративные Предварительно Обученные Трансформеры, - это семейство моделей ИИ, разработанных OpenAI. Эти модели предназначены для понимания и генерации текста, похожего на человеческий, на основе изученных паттернов из больших наборов данных. GPTs универсальны и могут использоваться для различных приложений, таких как создание контента, перевод языков, поддержка клиентов и многое другое.
+
+## Эксклюзивные промпты
+
+Я нашел промпты в GPT Store и бесплатно делюсь ими с вами. Эти промпты нигде больше не доступны, и никому не удается получить промпты (инструкции) из созданных GPTs из-за существующих блокировок.
+
+## Папки и файлы
+
+Файлы в папках содержат найденные инструкции (промпты), которые можно использовать для настройки и конфигурации различных версий GPT для определенных задач.
+
+## Prompts/ChatGPT
+
+- [ChatGPT-Classic.md](Prompts/ChatGPT/ChatGPT-Classic.md)
+- [ChatGPT-Use-Cases-for-Work.md](Prompts/ChatGPT/ChatGPT-Use-Cases-for-Work.md)
+- [DALL-E.md](Prompts/ChatGPT/DALL-E.md)
+- [Data-Analyst.md](Prompts/ChatGPT/Data-Analyst.md)
+- [Professional-Writing-Coach.md](Prompts/ChatGPT/Professional-Writing-Coach.md)
+- [Web-Browser.md](Prompts/ChatGPT/Web-Browser.md)
+- [README.md](README.md)
